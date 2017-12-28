@@ -1,4 +1,4 @@
-# Project Title
+# Python Tic-Tac-Toe
 
 The classic game tic-tac-toe, running native using the Tkinter wrapper appJar.
 
