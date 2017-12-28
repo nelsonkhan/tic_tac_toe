@@ -9,8 +9,8 @@ you want to run the code.
 
 ### Prerequisites
 
-Python <= v2.7 (https://www.python.org/)
-appJar <= v0.82 (http://appjar.info/)
+* Python <= v2.7 (https://www.python.org/)
+* appJar <= v0.82 (http://appjar.info/)
 
 ### Running
 
